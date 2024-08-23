@@ -1,7 +1,6 @@
 title: "Dark Market"
 tagline: "Fill or Kill"
 description: "A Publication Dedicated to Underground Economies"
-github_username: Stormzer0
 baseurl: "/darkmarket.io"
 url: "darkmarket.io"
 
@@ -20,5 +19,4 @@ header_pages:
   - read-me.md
   - preview.md
 
-# set the size of the text to 'large' or 'small', default is small
 font-size: small
