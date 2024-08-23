@@ -1,8 +1,9 @@
 title: "Dark Market"
 tagline: "Fill or Kill"
 description: "A Publication Dedicated to Underground Economies"
-baseurl: "/darkmarket.io"
-url: "darkmarket.io"
+github_username: "Stormzer0"
+url: "https://darkmarket.io"
+baseurl:
 
 plugins:
   - jemoji
