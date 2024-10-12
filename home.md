@@ -2,6 +2,7 @@
 layout: home
 permalink: /home
 permalink_name: /home
+title: home
 
 detail_image: "assets/theme_logo.svg"
 
