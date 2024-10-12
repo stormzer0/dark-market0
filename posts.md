@@ -2,10 +2,10 @@
 layout: page
 permalink: /posts
 permalink_name: /posts
-title: "Economies of Sail: The Somali Pirate Stock Exchange"
+title: posts
 ---
 
-# An AK47 and A Dream
+# "Economies of Sail: The Somali Pirate Stock Exchange"
 
 the year is 1964
 
