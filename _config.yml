@@ -18,6 +18,6 @@ highlighter: rouge
 header_pages:
   - index.md
   - read-me.md
-  - preview.md
+  - posts.md
 
 font-size: small
