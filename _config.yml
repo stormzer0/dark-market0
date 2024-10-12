@@ -16,7 +16,7 @@ sass:
 highlighter: rouge
 
 header_pages:
-  - index.md
+  - home.md
   - read-me.md
   - posts.md
 
