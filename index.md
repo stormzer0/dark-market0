@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: dark market
+title:
 
 detail_image: assets/theme_logo.svg
 
