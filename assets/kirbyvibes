@@ -1,1 +1,30 @@
-<a id='2oD4oqh7SPdXpvIIRapGkg' class='gie-single' href='http://www.gettyimages.com/detail/200157725-002' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'2oD4oqh7SPdXpvIIRapGkg',sig:'sdgM3uHLTNyCpZ0nLB4AImd2qL3wGQEix0f8oAy9S_g=',w:'507px',h:'338px',items:'200157725-002',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed Getty Image</title>
+</head>
+<body>
+
+    <!-- Embed Getty Image -->
+    <a id='2oD4oqh7SPdXpvIIRapGkg' class='gie-single' href='http://www.gettyimages.com/detail/200157725-002' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a>
+    <script>
+        window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};
+        gie(function(){
+            gie.widgets.load({
+                id:'2oD4oqh7SPdXpvIIRapGkg',
+                sig:'sdgM3uHLTNyCpZ0nLB4AImd2qL3wGQEix0f8oAy9S_g=',
+                w:'507px',
+                h:'338px',
+                items:'200157725-002',
+                caption: true,
+                tld:'com',
+                is360: false
+            });
+        });
+    </script>
+    <script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+
+</body>
+</html>
