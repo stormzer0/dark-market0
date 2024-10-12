@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /preview
-permalink_name: /preview
-title: This is the page title
+permalink: /posts
+permalink_name: /posts
+title: Economies of Sail: The Somali Pirate Stock Exchange
 ---
 
-# Header 1
+# An AK47 and A Dream
 
-Lorem ipsum dolor sit amet :octocat: :squirrel:, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+the year is 1964
 
 ## Header 2
 
