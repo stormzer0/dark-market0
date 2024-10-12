@@ -8,5 +8,6 @@ over 13% of developed nations GDP is contributed via informal channels
 
 nothing posted here should be considered financial or life advice
 
-#contact me# 
+"**Contact Me**"
+
 jj@anagram.xyz
