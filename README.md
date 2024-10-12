@@ -2,9 +2,9 @@
 
 
 
-Dark Market is a publication about the economics of underground industries
+Dark Market is a publication dedicated to uncovering the economics of underground industries
 
-over 13% of developed nations GDP is contributed via informal channels
+Over 13% of developed nations GDP is contributed via informal channels
 
 nothing posted here should be considered financial or life advice
 
