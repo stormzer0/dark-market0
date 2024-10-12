@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: /home
 permalink: /home
 permalink_name: /home
 
