@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /home
 permalink_name: /home
 
 detail_image: "assets/theme_logo.svg"
