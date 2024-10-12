@@ -19,5 +19,6 @@ header_pages:
   - home.md
   - read-me.md
   - posts.md
+  - vibes.md
 
 font-size: small
