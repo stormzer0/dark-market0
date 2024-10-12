@@ -2,8 +2,31 @@
 layout: default
 title:  "vibes"
 ---
-{%- if page.detail_image -%}<img class="detail_header" src="{{ page.detail_image }}">{%- endif -%}
+{%- if page.detail_image -%}
+<img class="detail_header" src="{{ page.detail_image }}" alt="{{ page.post-title }}">
+{%- endif -%}
 
 <h1>{{ page.post-title }}</h1>
 
 {{ content }}
+
+<!-- Conditionally render the Getty Image embed if the `getty_embed_id` is defined -->
+{%- if page.getty_embed_id and page.getty_image_url and page.getty_sig -%}
+    <a id='{{ page.getty_embed_id }}' class='gie-single' href='{{ page.getty_image_url }}' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a>
+    <script>
+        window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};
+        gie(function(){
+            gie.widgets.load({
+                id:'{{ page.getty_embed_id }}',
+                sig:'{{ page.getty_sig }}',
+                w:'{{ page.getty_width }}',
+                h:'{{ page.getty_height }}',
+                items:'{{ page.getty_embed_id }}',
+                caption: true,
+                tld:'com',
+                is360: false
+            });
+        });
+    </script>
+    <script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+{%- endif -%}
