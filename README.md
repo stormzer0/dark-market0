@@ -10,4 +10,4 @@ nothing posted here should be considered financial or life advice
 
 **Contact Me**
 
-jj@anagram.xyz
+tg @stormzer0
