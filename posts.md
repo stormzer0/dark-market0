@@ -88,8 +88,8 @@ In one specific case, Piracy investor Sahra Ibrahim, a 22-year-old divorcee, mad
 
 According to the International Chamber of Commerce, “Piracy increases the cost of international commerce by $12 billion annually, and in Somalia alone, more than 20 vessels and 400 hostages are currently being held,” notes Avi Jorisch of The Wall Street Journal in 2012.
 
-Pirates are not ideologically motivated, when they capture ships it is purely a commercial transaction-- they've been known to never kill hostages. They have professional negotiators on staff, dozens of people running the back-office logistics of executing the plan and relationships across multiple ports to gather intelligence.
+Pirates are not ideologically motivated, when they capture ships it is purely a commercial transaction-- they've never killed a hostage. They have professional negotiators on staff, dozens of people running the back-office logistics of executing the plan and relationships across multiple ports to gather intelligence.
 
-When the opportunity to scale arose they decided to seize it.
+The Somali Pirate Stock Exchange was built from necessity and ended from exuberance. Lesson in that.
 
 
