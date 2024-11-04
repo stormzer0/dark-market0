@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
 
-# Define dimensions and color for favicon
-size = (32, 32)
+# Define dimensions and color for 16x16 favicon
+size = (16, 16)
 lime_green = (50, 205, 50, 255)  # RGBA for lime green
 
 # Create a new transparent image for the favicon
@@ -13,19 +13,20 @@ draw = ImageDraw.Draw(img)
 # Draw the lime green stick figure
 
 # Head
-draw.ellipse((14, 4, 18, 8), fill=lime_green)
+draw.ellipse((7, 2, 9, 4), fill=lime_green)
 
 # Body
-draw.line((16, 8, 16, 18), fill=lime_green, width=2)
+draw.line((8, 4, 8, 9), fill=lime_green, width=1)
 
 # Arms
-draw.line((10, 12, 16, 13), fill=lime_green, width=2)
-draw.line((16, 13, 22, 12), fill=lime_green, width=2)
+draw.line((5, 6, 8, 7), fill=lime_green, width=1)
+draw.line((8, 7, 11, 6), fill=lime_green, width=1)
 
 # Legs
-draw.line((16, 18, 12, 26), fill=lime_green, width=2)
-draw.line((16, 18, 20, 26), fill=lime_green, width=2)
+draw.line((8, 9, 6, 13), fill=lime_green, width=1)
+draw.line((8, 9, 10, 13), fill=lime_green, width=1)
 
-# Save as .ico file
-img.save("lime_green_stick_figure_favicon.ico", format="ICO")
+# Save as 16x16 .ico file
+img.save("favicon.ico", format="ICO")
+
 
