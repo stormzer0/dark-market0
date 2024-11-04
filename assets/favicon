@@ -1,0 +1,32 @@
+from PIL import Image, ImageDraw
+
+# Define the size of the image
+width, height = 100, 100  # Adjust size as needed
+
+# Define lime green color
+lime_green = (50, 205, 50, 255)  # RGBA for lime green with full opacity
+
+# Create a transparent image
+img = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+
+# Create the drawing context
+draw = ImageDraw.Draw(img)
+
+# Draw a simple stick figure
+
+# Draw the head
+draw.ellipse((40, 10, 60, 30), fill=lime_green)
+
+# Draw the body
+draw.line((50, 30, 50, 70), fill=lime_green, width=5)
+
+# Draw the arms
+draw.line((30, 40, 50, 50), fill=lime_green, width=5)
+draw.line((50, 50, 70, 40), fill=lime_green, width=5)
+
+# Draw the legs
+draw.line((50, 70, 35, 90), fill=lime_green, width=5)
+draw.line((50, 70, 65, 90), fill=lime_green, width=5)
+
+# Save the image as "lime_green_stick_figure_only_transparent.png"
+img.save("lime_green_stick_figure_only_transparent.png")
