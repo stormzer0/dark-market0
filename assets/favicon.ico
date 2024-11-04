@@ -1,0 +1,31 @@
+from PIL import Image, ImageDraw
+
+# Define dimensions and color for favicon
+size = (32, 32)
+lime_green = (50, 205, 50, 255)  # RGBA for lime green
+
+# Create a new transparent image for the favicon
+img = Image.new("RGBA", size, (0, 0, 0, 0))
+
+# Create a drawing context
+draw = ImageDraw.Draw(img)
+
+# Draw the lime green stick figure
+
+# Head
+draw.ellipse((14, 4, 18, 8), fill=lime_green)
+
+# Body
+draw.line((16, 8, 16, 18), fill=lime_green, width=2)
+
+# Arms
+draw.line((10, 12, 16, 13), fill=lime_green, width=2)
+draw.line((16, 13, 22, 12), fill=lime_green, width=2)
+
+# Legs
+draw.line((16, 18, 12, 26), fill=lime_green, width=2)
+draw.line((16, 18, 20, 26), fill=lime_green, width=2)
+
+# Save as .ico file
+img.save("lime_green_stick_figure_favicon.ico", format="ICO")
+
