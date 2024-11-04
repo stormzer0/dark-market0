@@ -34,7 +34,7 @@ As the town collectively realized the Somalian government was too preoccupied wi
 
 ### Finding PMF: Pirate Market Fit
 
-"Move fast and take risks." – Mark Zuckerberg (and also Somali Pirates)
+"Move fast and break things." – Mark Zuckerberg (and also Somali Pirates)
 
 The Somali pirates of Harardhere were fully bootstrapped to start. 
 
@@ -89,6 +89,8 @@ In one specific case, Piracy investor Sahra Ibrahim, a 22-year-old divorcee, mad
 According to the International Chamber of Commerce, “Piracy increases the cost of international commerce by $12 billion annually, and in Somalia alone, more than 20 vessels and 400 hostages are currently being held,” notes Avi Jorisch of The Wall Street Journal in 2012.
 
 Pirates are not ideologically motivated, when they capture ships it is purely a commercial transaction-- they've never killed a hostage. They have professional negotiators on staff, dozens of people running the back-office logistics of executing the plan and relationships across multiple ports to gather intelligence.
+
+The operations of the pirates were largely curbed in 2013 due to a combination of international naval patrols, better coordination among countries, increased use of armed guards on commercial ships, and improved onboard security measures. Additionally, changes in shipping routes and stricter regulations from the International Maritime Organization (IMO) contributed to the decline.
 
 The Somali Pirate Stock Exchange was built from necessity and ended from exuberance. Lesson in that.
 
