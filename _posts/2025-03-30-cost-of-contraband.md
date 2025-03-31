@@ -40,11 +40,11 @@ The parallels to legitimate business evolution are striking. Like many internati
 
 This structural transformation offered three critical advantages: 
 
--Resilience against law enforcement: When leaders were captured or killed, operations continued with minimal disruption. Unlike the collapse that followed Escobar's death, the Sinaloa cartel barely faltered after El Chapo's capture and extradition.
+  - Resilience against law enforcement: When leaders were captured or killed, operations continued with minimal disruption. Unlike the collapse that followed Escobar's death, the Sinaloa cartel barely faltered after El Chapo's capture and extradition.
 
--Rapid adaptation to market opportunities: Semi-autonomous cells could quickly pivot to new products, territories, or methods without waiting for approval from a centralized authority. 
+  - Rapid adaptation to market opportunities: Semi-autonomous cells could quickly pivot to new products, territories, or methods without waiting for approval from a centralized authority. 
 
--Internal competition driving innovation: Much like the "pod" structure in modern hedge funds where teams compete for capital allocation, cartel cells compete for resources and territory, creating internal market pressures that drive efficiency and innovation. 
+  - Internal competition driving innovation: Much like the "pod" structure in modern hedge funds where teams compete for capital allocation, cartel cells compete for resources and territory, creating internal market pressures that drive efficiency and innovation. 
 
 This decentralization of decision-making has become a staple of modern day narcotics operations.
 
@@ -64,13 +64,13 @@ By the time cocaine reaches American streets, a kilogram initially worth $2,000 
 
 This elaborate supply chain presents significant operational challenges: 
 
--Capital intensity: Requires massive upfront investment in farming, processing, and transportation infrastructure 
+  - Capital intensity: Requires massive upfront investment in farming, processing, and transportation infrastructure 
 
--Scale requirements: Only profitable at large volumes due to thin margins in early production stages 
+  - Scale requirements: Only profitable at large volumes due to thin margins in early production stages 
 
--Vulnerability to disruption: Each physical step introduces risk of interdiction or theft 
+  - Vulnerability to disruption: Each physical step introduces risk of interdiction or theft 
 
--Lengthy production cycle: From planting to street sale can take 12+ months 
+  - Lengthy production cycle: From planting to street sale can take 12+ months 
 
 These aspects made cocaine an ideal product for vertically integrated cartels that could control the entire value chain, absorb losses at certain points, and capture margins across the system. However, for smaller, more agile competitors, these same characteristics presented significant barriers to entry.
 
@@ -100,11 +100,11 @@ This structural pivot fundamentally changed the competitive dynamics. Aside from
 
 The incentive structure within these organizations has striking parallels to the Valley's approach to innovation: 
 
--Internal competition driving efficiency: Cells within cartels like Sinaloa compete for territory, resources, and recognition of competency from the core organization. This internal market creates powerful incentives to maximize profitability. 
+  - Internal competition driving efficiency: Cells within cartels like Sinaloa compete for territory, resources, and recognition of competency from the core organization. This internal market creates powerful incentives to maximize profitability. 
 
--Venture capital-like resource allocation: The core cartel leadership allocates resources to cells showing the greatest profit potential, similar to how VC firms distribute capital among portfolio companies. 
+  - Venture capital-like resource allocation: The core cartel leadership allocates resources to cells showing the greatest profit potential, similar to how VC firms distribute capital among portfolio companies. 
 
--Failure tolerance with rapid iteration: Failed initiatives (whether new trafficking routes, product formulations, or distribution methods) are quickly abandoned without threatening the overall organization, allowing for rapid experimentation.
+  - Failure tolerance with rapid iteration: Failed initiatives (whether new trafficking routes, product formulations, or distribution methods) are quickly abandoned without threatening the overall organization, allowing for rapid experimentation.
 
 Cells could either swim against the current to compete with better equipped teams in the capital and labor intensive cocaine industry or for as little as a few thousand dollars' worth of chemical precursors they could synthesize millions of dollars' worth of the most addictive substance known to mankind and ship it via UPS to their distribution partners.
 
