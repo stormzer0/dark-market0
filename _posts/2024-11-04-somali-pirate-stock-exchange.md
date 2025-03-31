@@ -1,9 +1,11 @@
-"Economies of Sail: The Somali Pirate Stock Exchange"
+## "Economies of Sail: The Somali Pirate Stock Exchange"
+
 In 1602, the Dutch government granted the British East India Company (BEIC) a 21-year monopoly to trade in Asia. BEIC was a two-year old enterprise at this point and their assets were limited to the four ships in the fleet. In order to expand into Asia, they needed enormous amounts of capital to fund long-distance voyages and maintain ships. Historically BEIC raised capital from merchants on a per-voyage basis but given the scale of the opportunity and enduring road ahead they required permanent funding and lots of it. To raise the necessary funds, they sold shares to the public and paid dividends based on the success of ventures, making it the first-ever initial public offering. VOC, their initial equity offering, gave merchants permanent equity in the entirety of the British East India Company business and provided BEIC with the necessary backing to explore far eastern territories on multi-year voyages. Thus the Plunder for Profit business model was now accessible to the general public.
 
 Over 400 years later, the Pirate Stock Exchange found in Somalia has managed to preserve a good deal of the Dutch East India Company’s original spirit.
 
-Harardhere: The Forgotten Town
+### Harardhere: The Forgotten Town
+
 After the fall of the Somali government and President Siad Barre in 1991, Somalia descended into civil war. The central government collapsed, and the country fragmented into different regions controlled by warlords, clans, and militias. Harardhere, being a remote and coastal town, became largely isolated during this period of chaos and lawlessness.
 
 In the absence of a central government, Harardhere fell into an anarchic state. Primary education rates amongst school-aged children fell below 15%, infrastructure and healthcare were virtually nonexistent and sustainable, legitimate sources of income were nowhere to be found.
@@ -14,15 +16,18 @@ In Harardhere none of the pre-existing methods of value extraction were availabl
 
 Harardhere did have two things going for it:
 
-Strategic access to high traffic shipping routes
-Boats and experience navigating the Eastern Somali coastline
+1. Strategic access to high traffic shipping routes
+
+1. Boats and experience navigating the Eastern Somali coastline
+
 Harardhere is located directly on the coast of the Indian Ocean and under 150 miles from the strategic Gulf of Aden, which links Europe to Asia through the Red Sea. The Gulf of Aden services 20,000 ships annually and 55 ships per day on average. It is particularly vital for energy transport, with a significant percentage of the world’s oil and gas supplies passing through the region.
 
 Harardhere also had a surplus of skiffs which were used to fish for tuna, sardines and grouper along the Eastern Somali coast to be sold to markets in the Middle East.
 
 As the town collectively realized the Somalian government was too preoccupied with quelling the burning embers of Islamist extremism to support them, many decided it was high time to capitalize on their #1 export: piracy.
 
-Finding PMF: Pirate Market Fit
+# Finding PMF: Pirate Market Fit
+
 "Move fast and break things." – Mark Zuckerberg (and also Somali Pirates)
 
 The Somali pirates of Harardhere were fully bootstrapped to start.
@@ -39,7 +44,8 @@ A few months later they struck again and this time it made a global splash. The 
 
 These initial breakthroughs created an influx of capital, competition and attention. Piracy as a conduit for upward class mobility was no longer a pipedream but became the only potentially viable path for economic advancement.
 
-IPO: Initial Pirate Offering
+# IPO: Initial Pirate Offering
+
 "The only way to scale is to grow quickly, iterate, and learn from failures." - Reid Hoffman (and also Somali Pirates)
 
 Having achieved success on a global stage, the enterprising pirates of Harardhere decided to scale their operations. Without access to legitimate capital markets, they were forced to be resourceful- and thus the Somali Pirate Stock Exchange was born.
@@ -52,7 +58,9 @@ Prior to raising funds the teams would survey trading routes and plan to attack 
 
 The division of Ransom is calculated:
 
-30% goes to original financier or investors via the SPSE 20% goes to corrupt government officials 50% is divided between everyone who is hired to support the mission
+30% goes to original financier or investors via the SPSE 
+20% goes to corrupt government officials 
+50% is divided between everyone who is hired to support the mission
 
 In contrast to the exclusivity of today's private capital markets, where venture capital remains highly lucrative but inaccessible to most people, the SPSE was a free market that was open 24 hours a day. One wealthy former pirate named Mohammed describes the market dynamic here:
 
@@ -70,7 +78,8 @@ In 2009, Harardhere's deputy security officer was quoted saying, "Piracy-related
 
 In one specific case, Piracy investor Sahra Ibrahim, a 22-year-old divorcee, made $75,000 in 38 days after contributing a rocket-propelled grenade to a gang that freed a Spanish tuna fishing vessel.
 
-Concluding Thoughts
+# Concluding Thoughts
+
 According to the International Chamber of Commerce, “Piracy increases the cost of international commerce by $12 billion annually, and in Somalia alone, more than 20 vessels and 400 hostages are currently being held,” notes Avi Jorisch of The Wall Street Journal in 2012.
 
 Pirates are not ideologically motivated, when they capture ships it is purely a commercial transaction-- they've never killed a hostage. They have professional negotiators on staff, dozens of people running the back-office logistics of executing the plan and relationships across multiple ports to gather intelligence.
