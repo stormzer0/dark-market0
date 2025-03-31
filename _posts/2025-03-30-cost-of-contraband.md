@@ -84,7 +84,7 @@ Transporting fentanyl into the U.S. is remarkably cost-efficient due to its pote
 
 Once in the U.S., fentanyl distribution networks cut and press the drug into counterfeit prescription pills or blend it with heroin and other substances. A kilo of pure fentanyl—originally costing $4,000 to produce—can wholesale for $50,000–$80,000 and ultimately generate street revenues exceeding $1 million after dilution. Pills are sold cheaply—often just $5 each—making them dangerously accessible. 
 
-# Sinaloa-as-a-Service
+# Cartelative Advantages
 
 The explosive proliferation of fentanyl is fundamentally a story of economics and organizational innovation—Cartels are businesses, adapting to shifting markets and searching for a competitive edge. Historically, cartels like Medellín and Cali operated through rigid, vertical hierarchies. These traditional structures had massive distribution and production advantages in Cocaine but top-down command made them vulnerable to disruption from targeted law enforcement and internal power struggles. When these giants fell, successor organizations like Mexico's Sinaloa and CJNG realized survival depended on adopting a horizontal, networked model—reaping the benefits of their subsidiaries' success without the risk of ruin that comes with a predefined hierarchical chain of command. Sinaloa and CJNG could still own the Cocaine market, but smaller affiliates of these Cartels would be able to expand across borders and products to target new markets.
 
