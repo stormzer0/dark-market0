@@ -10,12 +10,3 @@ layout: default
 <div class="post-content">
   {{ content }}
 </div>
-
-{% if page.categories %}
-<div class="post-categories">
-  <span>Categories:</span>
-  {% for category in page.categories %}
-    <span class="category">{{ category }}</span>
-  {% endfor %}
-</div>
-{% endif %}
