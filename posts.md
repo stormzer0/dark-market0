@@ -5,8 +5,5 @@ permalink_name: /posts
 title: posts
 ---
 
-{% raw %}
-{% for post in site.posts %}
-* {{ post.date | date: "%Y-%m-%d" }} [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
-{% endraw %}
+- 2025-03-30 [Cost Of Contraband](/2025/03/30/cost-of-contraband.html)
+- 2024-11-04 [Somali Pirate Stock Exchange](/2024/11/04/somali-pirate-stock-exchange.html)
