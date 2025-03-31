@@ -22,7 +22,7 @@ Unlike Medellín, the Cali Cartel operated with a quieter, financially guided ap
 
 When the Colombian government dismantled the Cali Cartel in the late 1990s, the vacuum was filled by smaller groups such as the Norte del Valle Cartel and later by paramilitary organizations like the Clan del Golfo (Gulf Clan). These groups shifted from centralized leadership to a networked model, a somewhat innocuous decision that ended up changing everything. 
 
-# Cartel Grad School
+# Transformation of the Cartel Org Chart
 
 "We collectively, to get things done, work together as a team. Because the work really happens horizontally in our company, not vertically. Products are horizontal." - Tim Cook
 
@@ -108,15 +108,13 @@ The incentive structure within these organizations has striking parallels to the
 
 Cells could either swim against the current to compete with better equipped teams in the capital and labor intensive cocaine industry or for as little as a few thousand dollars' worth of chemical precursors they could synthesize millions of dollars' worth of the most addictive substance known to mankind and ship it via UPS to their distribution partners.
 
-# Synthetic and Scalable
+# Concluding Thoughts
 
 Traditional cocaine trafficking resembles the hardware business model: capital-intensive, physically constrained, with relatively thin margins that depend on volume. The elaborate infrastructure required massive investment and created significant barriers to both entry and exit. Not to mention, the core business of most cartels is still Cocaine- making it a highly saturated market.
 
 Fentanyl, by contrast, operates more like a software business: minimal physical infrastructure, extremely high margins, and the ability to scale production almost infinitely once the initial development (synthesis process) is established. A fentanyl lab requires minimal equipment, modest space, and relatively little specialized expertise—yet generates exponentially higher profits than cocaine operations.
 
 Transporting fentanyl is equally advantageous; unlike cocaine, fentanyl's extraordinary potency means traffickers only need tiny quantities to generate the same or greater revenue. Why risk smuggling 50 kilograms of cocaine across heavily guarded borders when a kilogram of fentanyl hidden in a spare tire or under a floorboard can yield similar or greater returns? The risk-reward calculus is clear. 
-
-Moreover, horizontal cartel structures intensified internal competition. Much like tech startups facing internal rivals must quickly innovate or perish, cartel factions competing for resources, territory, and market influence naturally gravitated toward fentanyl—offering them an instant competitive advantage.
 
 Cocaine suddenly only made economic sense if you owned the entire system, from farm to table. Fentanyl, by contrast, offered extraordinary returns at every segment of its much shorter supply chain. 
 
