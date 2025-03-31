@@ -108,6 +108,8 @@ In the hyper-competitive cocaine market—with its costly, plant-based productio
 
 In contrast, fentanyl production mirrored the lean startup model: low upfront investment, simple and scalable chemical synthesis, and massively amplified returns. For as little as a few thousand dollars' worth of chemical precursors from China or India, these smaller, agile cartel sub-units could produce millions of dollars' worth of fentanyl-laced pills. 
 
+<img src="/assets/images/contraband-image.jpg" alt="Contraband supply chain analysis" style="display: block; margin: 0 auto; max-width: 100%;">
+
 # The Digital Transformation Analogy
 
 This shift in economics is akin to the transformation from hardware to software businesses. Traditional cocaine trafficking resembles the hardware business model: capital-intensive, physically constrained, with relatively thin margins that depend on volume. The elaborate infrastructure required massive investment and created significant barriers to both entry and exit. 
