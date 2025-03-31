@@ -65,3 +65,69 @@ div.error_box { margin: 100px; text-align: center; }
 div.error_box h1 { font-size: 2em; }
 
 *::selection { background-color: var(--light-alt-color); color: black; }
+
+/* Add these to your assets/css/main.scss file after the existing CSS */
+
+/* Image styles */
+.inline-image {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  display: block;
+}
+
+.inline-image.left {
+  float: left;
+  margin-right: 20px;
+  max-width: 40%;
+}
+
+.inline-image.right {
+  float: right;
+  margin-left: 20px;
+  max-width: 40%;
+}
+
+.image-caption {
+  font-size: 0.8em;
+  color: var(--text-color);
+  text-align: center;
+  margin-top: 5px;
+  font-style: italic;
+}
+
+.post-image-container {
+  margin: 25px 0;
+}
+
+/* For figure-caption combinations */
+figure {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+figcaption {
+  font-size: 0.8em;
+  color: var(--text-color);
+  text-align: center;
+  margin-top: 5px;
+  font-style: italic;
+}
+
+/* Responsive images in posts */
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Image borders and effects */
+.bordered-image {
+  border: 1px solid var(--text-color);
+}
+
+.shadow-image {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
