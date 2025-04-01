@@ -38,7 +38,7 @@ As a result, these new organizations abandoned ranked positions typical in verti
 
 The parallels to legitimate business evolution are striking. Like many international corporations such as Walmart or McDonald's, the Sinaloa cartel functioned like subsidiary-based companies with semi-autonomous components. However, it went further than most legitimate businesses, adopting what might be better understood as a platform or franchise model. Each cell operated with significant independence while leveraging the cartel's brand, logistics expertise, and protection capabilities—similar to how tech platforms like Shopify provide infrastructure without directly controlling their service providers. 
 
-This structural transformation offered three critical advantages: 
+This structure offered three critical advantages: 
 
 *-Resilience against law enforcement: When leaders were captured or killed, operations continued with minimal disruption. Unlike the collapse that followed Escobar's death, the Sinaloa cartel barely faltered after El Chapo's capture and extradition.*
 
